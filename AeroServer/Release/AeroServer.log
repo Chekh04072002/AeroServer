@@ -1,0 +1,41 @@
+﻿  AeroServer.cpp
+C:\Users\bekir\source\repos\AeroServer\AeroServer\AeroServer.cpp(11,22): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\bekir\source\repos\AeroServer\AeroServer\AeroServer.cpp(26,16): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\bekir\source\repos\AeroServer\AeroServer\AeroServer.cpp(30,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\bekir\source\repos\AeroServer\AeroServer\AeroServer.cpp(47,30): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\bekir\source\repos\AeroServer\AeroServer\AeroServer.cpp(48,17): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\bekir\source\repos\AeroServer\AeroServer\AeroServer.cpp(48,38): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\bekir\source\repos\AeroServer\AeroServer\AeroServer.cpp(50,17): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\bekir\source\repos\AeroServer\AeroServer\AeroServer.cpp(51,17): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\bekir\source\repos\AeroServer\AeroServer\AeroServer.cpp(97,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\bekir\source\repos\AeroServer\AeroServer\AeroServer.cpp(158,54): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\bekir\source\repos\AeroServer\AeroServer\AeroServer.cpp(162,77): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\bekir\source\repos\AeroServer\AeroServer\AeroServer.cpp(166,68): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\bekir\source\repos\AeroServer\AeroServer\AeroServer.cpp(170,54): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\bekir\source\repos\AeroServer\AeroServer\AeroServer.cpp(174,54): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\bekir\source\repos\AeroServer\AeroServer\AeroServer.cpp(178,77): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\bekir\source\repos\AeroServer\AeroServer\AeroServer.cpp(182,68): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\bekir\source\repos\AeroServer\AeroServer\AeroServer.cpp(186,75): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\bekir\source\repos\AeroServer\AeroServer\AeroServer.cpp(196,47): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\bekir\source\repos\AeroServer\AeroServer\AeroServer.cpp(196,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\bekir\source\repos\AeroServer\AeroServer\AeroServer.cpp(196,33): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\bekir\source\repos\AeroServer\AeroServer\AeroServer.cpp(196,26): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\bekir\source\repos\AeroServer\AeroServer\AeroServer.cpp(213,47): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\bekir\source\repos\AeroServer\AeroServer\AeroServer.cpp(213,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\bekir\source\repos\AeroServer\AeroServer\AeroServer.cpp(213,33): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\bekir\source\repos\AeroServer\AeroServer\AeroServer.cpp(213,26): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\bekir\source\repos\AeroServer\AeroServer\AeroServer.cpp(252,31): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\bekir\source\repos\AeroServer\AeroServer\AeroServer.cpp(253,32): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\bekir\source\repos\AeroServer\AeroServer\AeroServer.cpp(255,32): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\bekir\source\repos\AeroServer\AeroServer\AeroServer.cpp(256,31): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\bekir\source\repos\AeroServer\AeroServer\AeroServer.cpp(257,32): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\bekir\source\repos\AeroServer\AeroServer\AeroServer.cpp(260,37): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\bekir\source\repos\AeroServer\AeroServer\AeroServer.cpp(261,37): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\bekir\source\repos\AeroServer\AeroServer\AeroServer.cpp(306,33): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\bekir\source\repos\AeroServer\AeroServer\AeroServer.cpp(307,33): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Создание кода
+  3 of 120 functions ( 2.5%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  AeroServer.vcxproj -> C:\Users\bekir\source\repos\AeroServer\Release\AeroServer.exe
